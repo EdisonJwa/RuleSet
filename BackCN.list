@@ -1,0 +1,71 @@
+# (Video)
+# AcFun
+USER-AGENT,AcFun*,BackCN
+DOMAIN-SUFFIX,acfun.cn,BackCN
+DOMAIN-SUFFIX,acfun.com,BackCN
+DOMAIN-SUFFIX,aixifan.com,BackCN
+# > bilibili
+USER-AGENT,bili-universal,BackCN
+USER-AGENT,Bilibili*,BackCN
+DOMAIN-SUFFIX,acgvideo.com,BackCN
+DOMAIN-SUFFIX,bilibili.com,BackCN
+DOMAIN-SUFFIX,hdslb.com,BackCN
+# > HunanTV
+USER-AGENT,MGTV*,BackCN
+DOMAIN-SUFFIX,hitv.com,BackCN
+DOMAIN-SUFFIX,hunantv.com,BackCN
+DOMAIN-SUFFIX,mgtv.com,BackCN
+# > Migu
+USER-AGENT,MiguVideo*,BackCN
+USER-AGENT,%E5%92%AA%E5%92%95%E8%A7%86%E9%A2%91,BackCN
+DOMAIN-SUFFIX,cmvideo.cn,BackCN
+DOMAIN-SUFFIX,migu.cn,BackCN
+DOMAIN-SUFFIX,miguvideo.com,BackCN
+# > iQiyi
+USER-AGENT,iQiYi*,BackCN
+USER-AGENT,PPStream*,BackCN
+USER-AGENT,QIYI*,BackCN
+USER-AGENT,QYPlayer*,BackCN
+DOMAIN-SUFFIX,iqiyi.com,BackCN
+DOMAIN-SUFFIX,iqiyipic.com,BackCN
+DOMAIN-SUFFIX,qy.net,BackCN
+DOMAIN-SUFFIX,71.am,BackCN
+# > Sohu
+DOMAIN-SUFFIX,56.com,BackCN
+DOMAIN-SUFFIX,sohu.com,BackCN
+DOMAIN-SUFFIX,sohu.com.cn,BackCN
+DOMAIN-SUFFIX,itc.cn,BackCN
+DOMAIN-SUFFIX,v-56.com,BackCN
+# > Tencent
+USER-AGENT,live4iphone*,BackCN
+USER-AGENT,qqlive4iphone*,BackCN
+USER-AGENT,TencentMidasConnect*,BackCN
+DOMAIN-SUFFIX,video.qq.com,BackCN
+# > Youku
+USER-AGENT,Youku*,BackCN
+USER-AGENT,%E4%BC%98%E9%85%B7*,BackCN
+DOMAIN-SUFFIX,soku.com,BackCN
+DOMAIN-SUFFIX,youku.com,BackCN
+DOMAIN-SUFFIX,ykimg.com,BackCN
+
+# (Music)
+# > Alibaba
+USER-AGENT,walkman*,BackCN
+USER-AGENT,xiami*,BackCN
+DOMAIN-SUFFIX,xiami.com,BackCN
+DOMAIN-SUFFIX,xiami.net,BackCN
+
+# > Tencent
+USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,BackCN
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90,BackCN
+DOMAIN-SUFFIX,qqmusic.qq.com,BackCN
+DOMAIN-SUFFIX,y.qq.com,BackCN
+DOMAIN,aqqmusic.tc.qq.com,BackCN
+# Kugou and Kuwo
+DOMAIN-SUFFIX,kugou.com,BackCN
+USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*,BackCN
+DOMAIN-SUFFIX,kuwo.cn,BackCN
+DOMAIN-SUFFIX,koowo.com,BackCN
+# > Baidu
+USER-AGENT,baiduyinyue,BackCN
+DOMAIN-SUFFIX,qianqian.com,BackCN
